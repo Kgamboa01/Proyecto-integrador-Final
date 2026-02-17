@@ -1,2 +1,2 @@
-# Proyecto-integrador-Fianl
+# Proyecto-integrador-Final
 Proyecto integrador Final 
