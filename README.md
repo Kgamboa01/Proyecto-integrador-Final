@@ -1,2 +1,2 @@
-# Proyecto-integrador-Final
+# Práctica grupal 
 Proyecto integrador Final 
